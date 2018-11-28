@@ -46,10 +46,10 @@ const movies = [
   },
   {
     _id: "5b21ca3eeb7f6fbccd47181e",
-    title: "Gone Girl",
-    genre: { _id: "5b21ca3eeb7f6fbccd471820", name: "Thriller" },
+    title: "The Interview",
+    genre: { _id: "5b21ca3eeb7f6fbccd471820", name: "Comedy" },
     numberInStock: 7,
-    dailyRentalRate: 4.5
+    dailyRentalRate: 4
   },
   {
     _id: "5b21ca3eeb7f6fbccd47181f",
