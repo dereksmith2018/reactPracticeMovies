@@ -47,7 +47,7 @@ const movies = [
   {
     _id: "5b21ca3eeb7f6fbccd47181e",
     title: "The Interview",
-    genre: { _id: "5b21ca3eeb7f6fbccd471820", name: "Comedy" },
+    genre: { _id: "5b21ca3eeb7f6fbccd471814", name: "Comedy" },
     numberInStock: 7,
     dailyRentalRate: 4
   },
